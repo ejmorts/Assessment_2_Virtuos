@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Virtuos a Virtual Reality Training Program
 
-You can use the [editor on GitHub](https://github.com/ejmorts/Assessment_2_Virtuos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Elliott Morton
+My name is Elliott Morton, I’m currently studying an Introduction to Information Technology at RMIT, and my student number is s3795102. My hobbies include; Virtual Reality gaming, Cricket, Travelling and watching the beautiful game that is Football aka soccer. At the end of my studies I’d love to work in either sports statistics and analytics or Game Design specifically for Virtual Reality, to achieve either of these jobs in the future I will have to complete a Bachelor’s Degree in Information Technology and also a Graduate Certificate in Sports Analytics.
+
+### Duc Tran
+My name is Duc Tran (student I.D s3807447) and currently I am doing 3 subjects which are user-centred design, introduction to programming and introduction to information and technology. Outside of I.T I am currently working at a bakery, like to exercise, watch anime and collect rocks. I hope to one day work somewhere in the data analytics field but I am still open to other options. My interest in I.T began when I was little through my oldest brother who at the time was working for IBM. I was always interested in what he was doing both hardware and software wise. As the years progressed I started to delve more into programming such as making a website in year 10 using Microsoft Front Page and then moving on to java coding using C++, using Microsoft SQL for making databases, using Python and finally to Eclipse. The team I am a part of is named Virtuous.
+
+## Team Profile
+
+## Ideal Jobs
 
 ### Markdown
 
