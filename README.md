@@ -38,6 +38,54 @@ Non-I.T skills wise within the data analyst job, Burning Glass’s (2018 file://
 
 Having looked at the Burning Glass data my opinion of a data analyst has not changed due to the fact that I was aware already that these kind of skill sets are needed. Although I would still need to learn further, my fundamental knowledge of SQL, Python, Excel, experience of doing presentations and my analytical nature, in my opinion, has put me on a good path into preparing for my dream job.
 
+## IT Work
+
+## IT Technologies
+
+# Clouds, Services and Servers
+
+# Function
+
+The cloud is a name commonly used to refer to servers that are connected to the internet and can be used as part of a software or application (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server). Cloud servers are types of servers that run virtually (digitally) in a cloud computing type of environment (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server). The servers are built, hosted and delivered through the internet via various computers working together (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server).
+
+When looking at the current status of the cloud computing industry, we must look into two distinctive areas which are cloud technology based on location and cloud technology based on service.
+
+Currently cloud location wise, we have four types of cloud technology which are public cloud, private cloud, hybrid cloud and community cloud.
+
+A public cloud is where the entire cloud computing infrastructure is located within the cloud computing company that is providing the cloud service (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). What this means is that the customer will have to share the hardware that supplies this cloud service with other clients within the same company that is providing the cloud service and will have no physical control over the infrastructure
+
+Next we will look at private cloud which is very similar to public cloud. The difference is that when a company or individual uses a private cloud service, the individual or company will be the only people who will be able to utilize the infrastructure for the network even though the physical hardware that runs this service is located at a remote location (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). If so desired, the individual or company has the option of storing the system on their premise however, this option would tend to be more expensive to do (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/).
+
+Next up we will look at the hybrid cloud system which combines both the public and private clouds within the same system (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This type of system allows the company to have the flexibility of providing greater security to their data by having two separate systems that interact with different people. The public system could be used to interact with customers directly whilst the private system can be used to keep the company’s data safe.
+
+The final cloud system we will be looking at is the community cloud. The community cloud system is predominately used for sharing information across different organisations and at times the public (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). A perfect example of the use of the community cloud system is a system that is run by a government, as the government would have many departments that they would share information to for various reasons and also at times if needed, sharing necessary information to the public.
+
+The final area of the cloud computing industry we will be looking at is cloud technology based on service. Currently, we use three types of services in the cloud computing industry which are called: Infrastructure-as-a-Service (IaaS), Platfrom-as-a-Service (PaaS) and Software-as-a-Service (SaaS).
+
+IaaS based services are services that offer storage solutions through the use of virtual servers or physical storage devices such as the use of storage disks and allows the user access or delete the information on those storage platforms (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This service solely exists to cater to the market demands for data storage.
+
+PaaS based service offers a platform that the company or individual may use for developmental purposes (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). The platforms include an operating system, a programming language for the user to program in, a database for data storage and a webserver to host their development/s on (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This means that this service offers customers the flexibility of creating their own custom made cloud system experiences based on what their role requires of them.
+
+SaaS services are cloud based services that are already developed by the company that offers the service (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This service already offers customers IaaS and Paas, and would only require the customer to pay a fee to access their service which would save the customer a lot of time and money developing such services from scratch.
+
+Within the following years in cloud computing we will see a growth in storage capacity rising from a global cloud storage capacity of 600 Exabytes in 2017 to beyond 1.1 Zettabytes that was set at the end of 2018 (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This increase of storage capacity is thanks in part to people increasingly sharing their personal information online via SaaS, PaaS and IaaS services such as Google Drive, Dropbox and other cloud services.
+
+The next trend growth we will see is the reduction in cost of storage solutions due to the increased competition within the storage solution market (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This means that consumers would be able to save a lot more money on data storage and the use of such services will become more and more common.
+
+The next trend we will also see develop in the next few years is the use of server-less cloud computing. When cloud computing was first developed, the entire system had the need to use servers as a way to store the data of their clients (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). However, as more companies increasingly store their data online, the need for physical servers to store information has become less in demand (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This therefore allowed the development of server-less technology to allow developers to build and run application services without physical infrastructure thus improving efficiency and reducing costs.
+
+Another trend we will see developing over the years is the use of cloud based container systems which will eventually replace software-based systems such as virtual machines. These cloud based container systems contains an application and all the files that are needed to run it (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This system will improve efficiency and reduce the costs of consumers who use this.
+
+# Impact
+
+The development of cloud technology and its services would change the way people store their data and how they would run their software in a positive way by saving them money, time and hassle. This could potentially affect all sorts of businesses and the public who rely on data processing and storage by providing greater access to the service and a storage solution that may not require as much physical space as compared to the physical storage of storage disks and the like. The development of server-less cloud computing would mean that we can eliminate the physical needs of data storage thus not having to worry about finding and purchasing space to have a server in. Through further development of the cloud market, some jobs may have to go such as jobs involving taking care and monitoring servers as those are getting used less and less. However, there may exist opportunities of new job creations involving the management of cloud services, and maintaining and creating newer cloud software that may further improve current cloud technology. However with this development a huge emphasis must be placed on the security of the data that is being stored and accessed. With more and more people storing and using data online, this potentially would give hackers more opportunity to compromise the public and companies who store very sensitive data. Along with further development to cloud technology, the security to protect it must also develop as much if not more further.
+
+# Effects
+
+In terms of the effect that this development will have at an individual level, this will affect the way I will store data in the future as I will rely more on digital means rather than physical means to do so. I grew up in a generation where physical storage was prevalent, from a floppy disk to hard drives. As time went by I eventually started looking into storing my files and data more digitally as it is more convenient to access but the security measures would need to step up even more before I can fully
+
+trust storing data digitally. Security measures such as multi-authentication log in is a great step towards allowing me to trust the security of using cloud. In terms of family and friends, it will also affect the way they store and access their data too. My brothers who work in the I.T industry will more likely embrace the cloud technology whilst my other family and friends who aren’t in the I.T field or who are from an older generation will less likely embrace this technology and instead may just stick to physical storage.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
