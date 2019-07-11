@@ -42,9 +42,9 @@ Having looked at the Burning Glass data my opinion of a data analyst has not cha
 
 ## IT Technologies
 
-# Clouds, Services and Servers
+## Clouds, Services and Servers
 
-# Function
+### Function
 
 The cloud is a name commonly used to refer to servers that are connected to the internet and can be used as part of a software or application (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server). Cloud servers are types of servers that run virtually (digitally) in a cloud computing type of environment (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server). The servers are built, hosted and delivered through the internet via various computers working together (Probrand 2015 https://www.probrand.co.uk/it-services/cloud-server).
 
@@ -76,15 +76,46 @@ The next trend we will also see develop in the next few years is the use of serv
 
 Another trend we will see developing over the years is the use of cloud based container systems which will eventually replace software-based systems such as virtual machines. These cloud based container systems contains an application and all the files that are needed to run it (Jain 2018 https://www.whizlabs.com/blog/cloud-computing-trends/). This system will improve efficiency and reduce the costs of consumers who use this.
 
-# Impact
+### Impact
 
 The development of cloud technology and its services would change the way people store their data and how they would run their software in a positive way by saving them money, time and hassle. This could potentially affect all sorts of businesses and the public who rely on data processing and storage by providing greater access to the service and a storage solution that may not require as much physical space as compared to the physical storage of storage disks and the like. The development of server-less cloud computing would mean that we can eliminate the physical needs of data storage thus not having to worry about finding and purchasing space to have a server in. Through further development of the cloud market, some jobs may have to go such as jobs involving taking care and monitoring servers as those are getting used less and less. However, there may exist opportunities of new job creations involving the management of cloud services, and maintaining and creating newer cloud software that may further improve current cloud technology. However with this development a huge emphasis must be placed on the security of the data that is being stored and accessed. With more and more people storing and using data online, this potentially would give hackers more opportunity to compromise the public and companies who store very sensitive data. Along with further development to cloud technology, the security to protect it must also develop as much if not more further.
 
-# Effects
+### Effects
 
 In terms of the effect that this development will have at an individual level, this will affect the way I will store data in the future as I will rely more on digital means rather than physical means to do so. I grew up in a generation where physical storage was prevalent, from a floppy disk to hard drives. As time went by I eventually started looking into storing my files and data more digitally as it is more convenient to access but the security measures would need to step up even more before I can fully
 
 trust storing data digitally. Security measures such as multi-authentication log in is a great step towards allowing me to trust the security of using cloud. In terms of family and friends, it will also affect the way they store and access their data too. My brothers who work in the I.T industry will more likely embrace the cloud technology whilst my other family and friends who aren’t in the I.T field or who are from an older generation will less likely embrace this technology and instead may just stick to physical storage.
+
+## Cyber Security
+
+### Function
+
+Cyber security is defined as the practice of protecting systems, networks and programs from digital related attacks that are usually aimed at accessing, manipulating and destroying sensitive information, financial extortion or the interruption of normal business operations (Cisco n.d https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html). As cyber attackers are becoming more innovative with their methods further advancements in the technologies regarding cyber security would need to be made in order to fend off these cyber attackers. Here listed below are the current technologies in the cyber security field.
+
+Context-Aware Behavioural Analytics is a monitoring and identifying technology whose job is to monitor and identify suspicious behaviour and transactions within a system. This can be from monitoring how an employee types, uses their mouse to using a technique called phone printing which analyses acoustic information to identify spoof callers (ecpu university 2019 https://www.ecpi.edu/blog/new-cybersecurity-technologies-what-is-shaking-up-the-field). This technology will help to reduce the incidences of false alarms and to better identify actual attacks to the system.
+
+The next generation breach detection is an innovation designed to tackle the “zero-day” exploits (an exploit in which that hackers are utilizing a vulnerability or vulnerabilities in a software that the developer is unaware of to spread malware before it can be noticed and patched up) that hackers can take advantage of to gather information in systems and networks for a period of time without being detected (ecpu university 2019). This innovation combines both machine learning and behavioural analytics to detect and trace the source when such data breaches happen. The next
+
+generation breach detection innovation would be useful in increasing data integrity which is an important security aspect when storing and using data digitally.
+
+The Virtual Dispersive Networking (VDN) innovation was designed to tackle man-in-the-middle (MiM) attacks which involves the attacker relaying and possibly altering communications between two parties (sender and recipient) (ecpu university 2019). This works by splitting the communication message into numerous parts, then encrypting each part and then routed into several different protocols each on different paths (ecpu university 2019 https://www.ecpi.edu/blog/new-cybersecurity-technologies-what-is-shaking-up-the-field). What this means is that normally when communication is sent between two parties digitally, the data is sent in a sort of information (data) packet. The MiM attacker can intercept this packet and may alter it to send completely different information to the recipient. However, the virtual dispersive network innovation splits this packet into several parts (encrypting each part in the process) making it harder for the attacker to find, alter and access all of the information that was being sent to the recipient.
+
+The smart grid technologies are programs that are used in field devices and smart meters that address the vulnerability to attacks (ecpu university 2019). This is done through the use of a wide range of security standards and measures such as the use of the Padlock gateway which would help prevent MiM types of attacks by encrypting communication between the central system and the field devices, the use of the Watchdog which is a detection program that performs a deep packet inspection of the control system and its local area network (ecpu university 2019). The use of these smart grid technologies would ensure the data security of such devices and help to prevent a potentially dangerous leak of sensitive data.
+
+The Security Assertion Markup Language (SAML) is a standard used to exchange authentication and authorisation data between parties such as from an identity provider to a service provider (OneLogin 2019 https://developers.onelogin.com/saml). This is a perfect standard to use in conjunction with cloud technology and Context-Aware Behavioural Analytics.
+
+Within the near future advances in finding effective solutions for hybrid cloud security will take priority, businesses and cyber criminals will leverage artificial intelligence and machine learning in order to both increase security measure and to break security measures respectively, Automation and the use of Robotic Process Automation (RPA) will increase for incident detention, analysis and response purposes (Security 2019 https://www.securitymagazine.com/articles/90105-cyber-security-trends-to-watch-for-in-2019).
+
+### Impact
+
+These developments in cyber security will likely have a great impact on the improvement of the security of data in general. This will change the way we think about tackling security threats and how we would stay safe from increased cyber-attacks as society in general is getting more technology dependant. The ways in which we access data would also change to be more secure but convenient as well and therefore would make pre-existing services such as cloud services more reliably and less susceptible to cyber-attacks.
+
+As people are getting more technology dependant these developments in cyber security would affect anyone who uses technology as everyone would have the potential of being attacked digitally, these cyber security developments would help to keep everyone safer.
+
+In terms of jobs and technology in the near future it would place further demands on people who are interested in the cyber security field and eventually older security protocols would be made redundant as newer technology do a better job of providing greater security
+
+### Effects
+On an individual level these advancements in cyber security technology would have a huge effect on my daily life as my job will eventually involve working in the data analytics field which would require a lot of cyber security to protect sensitive information that I work with. I am also more technology dependant now compared to when I was younger so advancements in cyber technology and authentication protocols are important to me to keep the technology I’m using safe and to prevent data that is sensitive to me, my family and friends safe.
 
 ### Markdown
 
