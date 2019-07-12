@@ -24,6 +24,11 @@ Figure 2
 Figure 3
 
 ### Elliott's Test Results
+![creativity_test](https://user-images.githubusercontent.com/51364646/61108455-aaa58e80-a4c5-11e9-8c4c-55ae559976c9.PNG)
+
+Figure 4
+
+
 When taking the results of figures 2 to 7 and Chiho’s tests into account when forming a team, these results tells us what the personality of each member is like and what their method of learning is, and so would help us understand how each member of the team is like from their personality to their preference of learning style. From knowing this, this could potentially help us form a team that is more understanding of each other and help us work together better. For example, if all members have a strong desire to do well in their given tasks then overall the team has a higher probability of obtaining higher marks for the project.
 
 ### Chiho's Test Results
