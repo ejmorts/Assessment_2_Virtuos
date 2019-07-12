@@ -12,10 +12,13 @@ My name is Duc Tran (student I.D s3807447) and currently I am doing 3 subjects w
 
 ### Duc's Test Results
 ![Myer-Briggs](https://user-images.githubusercontent.com/51364646/61107622-b55f2400-a4c3-11e9-87bd-ae7ab2986fbc.JPG)
+
 Figure 1
 ![learning style](https://user-images.githubusercontent.com/51364646/61107741-f7886580-a4c3-11e9-9bc4-51283da2b927.JPG)
+
 Figure 2
 ![OCEAN test](https://user-images.githubusercontent.com/51364646/61107996-7ed5d900-a4c4-11e9-9c2c-ab8435f1dcd9.JPG)
+
 Figure 3
 
 ### Elliott's Test Results
