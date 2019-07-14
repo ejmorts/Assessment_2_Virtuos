@@ -46,36 +46,14 @@ The ideal job for Duc would be as a data analyst, Chiho’s ideal job would be a
 
 Each of our dream jobs differ from each other by the fact that they are in different job fields although as a data analyst I could be working with clients from both Chiho’s and Elliot’s field. Chiho’s dream job would be more in the finance field, Elliot’s dream job would be in the sports field and my dream job would be in the statistical and data processing field. Each field would have a different emphasise on the skill sets one must have to work in the job and the types of clients one will meet in their job.
 
+# Project Idea - Virtuos (VR Training)
+The scale of the employment challenge is vast and in a fast paced ever changing world. The International Labour Organization estimates that more than 61 million jobs have been lost since the start of the global economic crisis in 2008, leaving more than 200 million people unemployed globally. Technology is going to drive businesses into the future and engaging and training employees. 
 
+Virtual Reality (VR) is a three-dimensional, computer-generated representation of physical worlds. These worlds are immersive, and users can interact with them as if they are real. A variety of VR devices are available on the market, ranging from inexpensive cardboard-based devices that work with a smartphone to expensive, professional-grade headsets.
 
-### Markdown
+The use of virtual reality as a training tool is well known, in the field of surgery. Medical schools have adopted this technology as a way of teaching the next generation of surgeons, for example robotic surgery. Training is necessary to ensure that people can perform their jobs or learn a subject in order to be fully productive. But the costs can be expensive, for example, developing a series of prototypes. Virtual Reality removes the needs for repeated prototyping and/or implementation which we know can be costly. What it does instead is to replace this with a single model which can be used time and time again. Plus, it can be accessed from different locations which will inevitably save time and money.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Virtual Reality can be used as a virtual education and employment tool to reskill and retrain employees and for people who speak English as a second language or for people who come from high unemployment and low education areas. This technology will make learning easy for people who don’t speak English as their first language as the VR itself can be used in several different languages. For people from low education areas VR training will be able to provide realistic scenarios for learning whilst also making the experience pleasant and enjoyable which means that there is a higher level of engagement and understanding. VR is suitable for different learning styles because it enables self-paced learning in a realistic environment at anytime and anywhere. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ejmorts/Assessment_2_Virtuos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This technology will allow workers to use virtual environments to create radical new solutions to problems or upgrades to existing services or products. Using scenario-based learning VR is known to enhance critical thinking and real-world decision making. By integrating immersive, 360-degree video into scenario-based training, the experience is more resonant and realistic, which will help people to retain what they have learnt. 
+Virtual Reality is poised to be a breakthrough technology for training, thanks to its immersive nature and the freedom it offers to practice in realistic settings without worrying about outcomes. 
