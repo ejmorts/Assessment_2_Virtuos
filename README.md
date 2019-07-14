@@ -44,6 +44,15 @@ When taking the results of figures 2 to 7 and Chiho’s tests into account when 
 
 ### Figure 7
 
+![chiho visual learner1](https://user-images.githubusercontent.com/51364646/61178396-954c7380-a62f-11e9-8391-0162f00355ff.png)
+![chiho visual learner2](https://user-images.githubusercontent.com/51364646/61178400-a85f4380-a62f-11e9-8654-f2945baf28a3.png)
+
+### Figure 8
+
+![chiho isfp](https://user-images.githubusercontent.com/51364646/61178408-cd53b680-a62f-11e9-9907-64a91d1bc7a5.png)
+
+### Figure 9
+
 Chiho underwent three tests which were the Myers-Briggs test, the online learning test and the DISC (Dominance Influence Steadiness and Conscientiousness) test. Her Myers-Briggs test result came back as Introverted Sensing Feeling Perceiving (ISFP-T) (Yamagishi 2019). The result of her learning style test revealed that she was a visual type of learner and lastly her DIS personality test results revealed that she was conscientious, diligent and has attention to detail (Yamagishi 2019).
 
 ## Ideal Jobs
